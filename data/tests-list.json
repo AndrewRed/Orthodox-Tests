@@ -1,0 +1,95 @@
+{
+  "tests": [
+    {
+      "id": "blagoveshchenie",
+      "title": "Благовещение Пресвятой Богородицы",
+      "icon": "data/blagoveshchenie/images/Благовещение.jpg",
+      "description": "Тест о явлении архангела Гавриила Деве Марии",
+      "file": "data/blagoveshchenie/blagoveshchenie.json"
+    },
+    {
+      "id": "vvedenie-vo-hram",
+      "title": "Введение во храм Пресвятой Богородицы",
+      "icon": "data/vvedenie-vo-hram/images/Введение во Храм.jpg",
+      "description": "Тест о введении Девы Марии в храм в возрасте трех лет",
+      "file": "data/vvedenie-vo-hram/vvedenie-vo-hram.json"
+    },
+    {
+      "id": "rozhdestvo-bogoroditsy",
+      "title": "Рождество Пресвятой Богородицы",
+      "icon": "data/rozhdestvo-bogoroditsy/images/Рождество Пресвятой Богородицы.jpg",
+      "description": "Тест о рождении Девы Марии у праведных Иоакима и Анны",
+      "file": "data/rozhdestvo-bogoroditsy/rozhdestvo-bogoroditsy.json"
+    },
+    {
+      "id": "voskreshenie-lazarya",
+      "title": "Воскрешение Лазаря. Лазарева суббота",
+      "icon": "data/voskreshenie-lazarya/images/Воскрешение_Лазаря.jpg",
+      "description": "Тест о воскрешении Лазаря Иисусом Христом и празднике Лазаревой субботы",
+      "file": "data/voskreshenie-lazarya/voskreshenie-lazarya.json"
+    },
+    {
+      "id": "vhod-gospoden",
+      "title": "Вход Господень в Иерусалим",
+      "icon": "data/vhod-gospoden/images/Вход_Господень_в_Иерусалим.jpg",
+      "description": "Тест о торжественном входе Иисуса Христа в Иерусалим",
+      "file": "data/vhod-gospoden/vhod-gospoden.json"
+    },
+    {
+      "id": "preobrazhenie",
+      "title": "Преображение Господне",
+      "icon": "data/preobrazhenie/images/Преображение.jpg",
+      "description": "Тест о Преображении Иисуса Христа на горе Фавор",
+      "file": "data/preobrazhenie/preobrazhenie.json"
+    },
+    {
+      "id": "pritcha-bludnyi-syn",
+      "title": "Притча о блудном сыне",
+      "icon": "data/pritcha-bludnyi-syn/images/Притча_о_блудном_сыне.jpg",
+      "description": "Тест о притче Иисуса Христа о блудном сыне",
+      "file": "data/pritcha-bludnyi-syn/pritcha-bludnyi-syn.json"
+    },
+    {
+      "id": "pritcha-strashnyi-sud",
+      "title": "Притча о Страшном Суде",
+      "icon": "data/pritcha-strashnyi-sud/images/Притча_о_Страшном_Суде.jpg",
+      "description": "Тест о притче Иисуса Христа о Страшном Суде",
+      "file": "data/pritcha-strashnyi-sud/pritcha-strashnyi-sud.json"
+    },
+    {
+      "id": "mytar-i-farisei",
+      "title": "Притча о Мытаре и Фарисее",
+      "icon": "data/mytar-i-farisei/images/Мытарь_и_Фарисей.jpg",
+      "description": "Тест о притче Иисуса Христа о мытаре и фарисее",
+      "file": "data/mytar-i-farisei/mytar-i-farisei.json"
+    },
+    {
+      "id": "torzhestvo-pravoslaviya",
+      "title": "Торжество Православия",
+      "icon": "data/torzhestvo-pravoslaviya/images/Торжество_Православия.png",
+      "description": "Тест о празднике Торжества Православия",
+      "file": "data/torzhestvo-pravoslaviya/torzhestvo-pravoslaviya.json"
+    },
+    {
+      "id": "ioann-predtecha",
+      "title": "Благовестие Захарии и Рождество Иоанна Предтечи",
+      "icon": "data/ioann-predtecha/images/Иоанн_Предтеча.jpg",
+      "description": "Тест о благовестии Захарии и рождении Иоанна Крестителя",
+      "file": "data/ioann-predtecha/ioann-predtecha.json"
+    },
+    {
+      "id": "vozdyizhenie-kresta",
+      "title": "Воздвижение Креста Господня",
+      "icon": "data/vozdyizhenie-kresta/images/Воздвижение_Креста.png",
+      "description": "Тест о обретении и воздвижении Честного Креста Господня",
+      "file": "data/vozdyizhenie-kresta/vozdyizhenie-kresta.json"
+    },
+    {
+      "id": "chudesa-hristovy",
+      "title": "Чудеса Христовы",
+      "icon": "data/chudesa-hristovy/images/Чудеса_Христовы.jpg",
+      "description": "Тест о чудесах, совершенных Иисусом Христом",
+      "file": "data/chudesa-hristovy/chudesa-hristovy.json"
+    }
+  ]
+}

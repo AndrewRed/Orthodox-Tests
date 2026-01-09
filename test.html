@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Прохождение теста</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 id="testTitle">Тест</h1>
+            <p class="subtitle" id="testDescription"></p>
+        </header>
+
+        <div class="progress-container">
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+        </div>
+
+        <div id="questionContainer" class="question-container">
+            <!-- Вопрос будет отображаться здесь -->
+        </div>
+
+        <div id="resultContainer" class="results-container">
+            <!-- Результаты будут отображаться здесь -->
+        </div>
+
+        <div class="button-container">
+            <button id="nextBtn" class="btn" style="display: none;">Следующий вопрос</button>
+            <button id="finishBtn" class="btn" style="display: none;">Завершить тест</button>
+            <button id="restartBtn" class="btn restart-btn" style="display: none;">Пройти еще раз</button>
+            <button id="backBtn" class="btn" style="display: none;">Выбрать другой тест</button>
+        </div>
+    </div>
+
+    <script src="js/test-loader.js"></script>
+    <script src="js/test-engine.js"></script>
+    <script src="js/ui-controller.js"></script>
+    <script src="js/test-page.js"></script>
+</body>
+</html>
+
